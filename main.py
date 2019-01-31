@@ -1,9 +1,7 @@
-from my_info import my_class
-class my_class:
-	def meth_2(self):
-		self.surname = "Yessenbayev"
-		self.city = "Astana"
-		self.profession = "teacher"
+from myclass import MyClass
+	
 
-a = my_class("Auyeskhan","Qostanay","teacher")
+a = MyClass("Auyeskhan","Qostanay","teacher")
+a.meth_1()
 a.meth_2()
+a.meth_1()
