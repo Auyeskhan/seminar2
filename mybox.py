@@ -1,3 +1,4 @@
+from myboxiterator import MyBoxIterator
 class MyBox:
   def __init__(self):
     self._theItems = list()
