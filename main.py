@@ -1,5 +1,5 @@
 from mybox import MyBox
-from myboxiterator import MyBoxIteator
+from myboxiterator import MyBoxIterator
 
 b = MyBox()
 b.add('hello')
