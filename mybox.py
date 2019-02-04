@@ -9,7 +9,7 @@ class MyBox:
   def remove(self,item):
     assert item in self._theItems
     idx = self._theItems.index(item)
-    returnvself._theItems.pop(idx)
+    return self._theItems.pop(idx)
   def __contains__(self,item):
     return item in self._theItems
   def __iter__(self,item):
