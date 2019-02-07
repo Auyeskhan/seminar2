@@ -1,1 +1,1 @@
-name: Rauan surname: Auyeskhan link to repo: https://hithub.com/Auyeskhan/seminar1.git
+name: Rauan surname: Auyeskhan link to repo: https://hithub.com/Auyeskhan/seminar2.git
