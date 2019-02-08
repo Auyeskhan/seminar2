@@ -18,3 +18,4 @@ class MyClass:
 		self.city = "Astana"
 		self.profession = "teacher"
 
+ 
