@@ -9,3 +9,4 @@ b.add(MyClass('Shamel', 'Kostanay', 'Student'))
 b.remove(1)
 for i in b:
       i.meth_1()
+ 
