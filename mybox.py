@@ -13,3 +13,4 @@ class MyBox:
     return item in self._theItems
   def __iter__(self):
     return MyBoxIterator (self._theItems)
+ 
